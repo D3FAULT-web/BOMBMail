@@ -19,9 +19,9 @@
 ![image](https://github.com/user-attachments/assets/dfcf38bf-4853-4224-a2aa-1c39bcb5a8f6)
 
 
-BOMBMail is a utility that allows you to create bomb mail list materials created as part of a Personal Attack project using telegram. This allows software creators to produce their projects in a simple yet powerful way.
+BOMBMail is a utility that allows you to create bomb mail list materials created as part of a Personal Attack project using Mail. This allows software creators to produce their projects in a simple yet powerful way.
 
-Tbom is a project currently being incubated at D3FAULT privately. 
+BOMBMail is a project currently being incubated at D3FAULT privately. 
 
 This guide includes information about using Cyber ​​attacks using Mail List Python.
 
