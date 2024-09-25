@@ -10,7 +10,7 @@
 - [<kbd>Installation</kbd>](#-installation)
 - [<kbd>Donate for coffee</kbd>](#-donate-for-coffee)
 
-#  What is MBomb V2
+#  What is BOMBMail
 
 <div align="justify">
   
@@ -19,7 +19,7 @@
 ![image](https://github.com/user-attachments/assets/dfcf38bf-4853-4224-a2aa-1c39bcb5a8f6)
 
 
-MBomb V2 is a utility that allows you to create bomb mail list materials created as part of a Personal Attack project using telegram. This allows software creators to produce their projects in a simple yet powerful way.
+BOMBMail is a utility that allows you to create bomb mail list materials created as part of a Personal Attack project using telegram. This allows software creators to produce their projects in a simple yet powerful way.
 
 Tbom is a project currently being incubated at D3FAULT privately. 
 
