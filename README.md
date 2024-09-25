@@ -6,7 +6,7 @@
 
 # Menu
 
-- [<kbd>What is TBom</kbd>](#-what-is-tbom)
+- [<kbd>What is BOMBMail</kbd>](#-what-is-tbom)
 - [<kbd>Installation</kbd>](#-installation)
 - [<kbd>Donate for coffee</kbd>](#-donate-for-coffee)
 
